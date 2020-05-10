@@ -51,3 +51,9 @@ body{
 .row{
     padding: 0%;
 }
+.card-footer{
+    text-align: center;
+}
+.delani{
+    margin-top: 20px;
+}
