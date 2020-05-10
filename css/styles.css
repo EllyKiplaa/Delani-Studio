@@ -90,7 +90,42 @@ body{
     margin-top: 20px;
     background: transparent;
 }
-.design1{
+.details1{
+    display: none;
+}
+.illustration{
+    display: show;
+}
+.details2{
+    display: none;
+}
+.illustration2{
+    display: show;
+}
+.details3{
     display: none;
 
+}
+.illustration3{
+    display: show;
+}
+.illustration1{
+    display: show;
+}
+
+#what-we-do .icon:hover .doings p {
+    text-align: center;
+    font-size: 14px;
+  }
+  @media screen and (max-width: 601px) {
+    #what-we-do h1::after {
+      margin: 15px auto 20px;
+      width: 35%;
+    }
+  }
+  @media screen and (max-width: 1000px) {
+    #what-we-do .doings {
+      height: auto;
+      cursor: pointer;
+    }
 }
