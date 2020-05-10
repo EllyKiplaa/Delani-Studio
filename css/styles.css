@@ -78,3 +78,12 @@ body{
     color: white;
     background: transparent;
 }
+#email{
+    width: 30%;
+    background: transparent;
+}
+#area{
+    width: 50%;
+    margin-top: 20px;
+    background: transparent;
+}
