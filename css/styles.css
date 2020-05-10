@@ -39,11 +39,13 @@ body{
     display: 0;
     margin-top: 20px;
 
+
     
 }
 .container{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 40px;
     
 }
 .col{
@@ -55,6 +57,7 @@ body{
 }
 .card-footer{
     text-align: center;
+
 }
 .delani{
     margin-top: 20px;
