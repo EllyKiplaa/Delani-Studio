@@ -73,3 +73,8 @@ body{
     background: transparent;
     margin: 0%;
 }
+#name{
+    width: 30%;  
+    color: white;
+    background: transparent;
+}
