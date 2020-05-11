@@ -23,7 +23,8 @@ $(document).ready(function(){
     $(".details3").toggle();
     $(".design3").toggle();
   });
-   //Overlay images
+  
+  //Hovering imagas
 
    $('.port_desc').hover(function(){
     $('.porttext',this).slideToggle('slow');
