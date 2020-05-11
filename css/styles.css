@@ -30,11 +30,6 @@ body{
     
     
 }
-.mouse_click{
-    animation-name: bounce-6;
-    animation-timing-function: ease;
-
-}
 #to-do{
     text-align: center;
     padding: 10px;
@@ -50,6 +45,11 @@ body{
     margin-top: 50px;
     margin-bottom: 40px;
     
+}
+#bottom{
+
+    margin-bottom: 50px;
+
 }
 .col{
     padding:2px;
@@ -112,10 +112,19 @@ body{
 .design3{
     display: show;
 }
-
-#what-we-do .icon:hover .doings p {
+#desc-des{
+    display: none;
     text-align: center;
-    font-size: 14px;
+  }
+  
+  #desc-dev{
+    display: none;
+    text-align: center;
+  }
+  
+  #desc-prod{
+    display: none;
+    text-align: center;
   }
   @media screen and (max-width: 601px) {
     #what-we-do h1::after {
