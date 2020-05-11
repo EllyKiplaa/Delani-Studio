@@ -30,6 +30,11 @@ body{
     
     
 }
+.mouse_click{
+    animation-name: bounce-6;
+    animation-timing-function: ease;
+
+}
 #to-do{
     text-align: center;
     padding: 10px;
@@ -38,8 +43,6 @@ body{
     text-align: center;
     display: 0;
     margin-top: 20px;
-
-
     
 }
 .container{
@@ -93,23 +96,20 @@ body{
 .details1{
     display: none;
 }
-.illustration{
+.design1{
     display: show;
 }
 .details2{
     display: none;
 }
-.illustration2{
+.design2{
     display: show;
 }
 .details3{
     display: none;
 
 }
-.illustration3{
-    display: show;
-}
-.illustration1{
+.design3{
     display: show;
 }
 
